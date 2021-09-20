@@ -1,0 +1,8 @@
+{
+  "name": "@monorepo/common",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "author": "",
+  "license": "ISC"
+}
